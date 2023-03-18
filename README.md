@@ -25,9 +25,9 @@ I'm an
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
      
 #
+<br>
 
-
-### 📊 → Stats
+### 📊 Stats
 
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahhusainy&show_icons=true&theme=dark)
 
