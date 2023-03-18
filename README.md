@@ -68,10 +68,3 @@ I am a 2nd-year Computer Science student currently seeking a co-op internship po
 <p float="left" align = "center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdullahhusainy&show_icons=true&locale=en&theme=dark" alt="abdullahhusainy" width="450" />
 </p>
-
-#
-
-<details>
- <summary><h3>👨🏻‍💻 My Coding Journey</h3></summary>
-   September 2021 was my first time when I touched and made code. I'm still trying...
-   
