@@ -1,9 +1,5 @@
 <h1 align="left"fds>< > Abdullah Hussain < / ></h1>
 <p align="left">I am a ...</p>
-<p float="left" align = "left">
-  
-  <a href="https://www.linkedin.com/in/abdullahhusainy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </p>
-
 
 
 **`Code Ninja (Coder/Videographer)`**
