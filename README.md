@@ -1,6 +1,6 @@
-<h1 align="center"fds>< > Abdullah Hussain < / ></h1>
-<p align="center">I am a ...</p>
-<p float="left" align = "center">
+<h1 align="left"fds>< > Abdullah Hussain < / ></h1>
+<p align="left">I am a ...</p>
+<p float="left" align = "left">
   
   <a href="https://www.linkedin.com/in/abdullahhusainy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </p>
 
@@ -10,7 +10,7 @@
 
 I'm an 
 
-   <p align="center">
+   <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abdullahhusainy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/abdullahhusainy?tab=repositories&sort=stargazers">
@@ -19,14 +19,14 @@ I'm an
 
 ---
 
-<h1 align="center"fds>✏︎ Languages and Tools</h1>
+<h1 align="left"fds>✏︎ Languages and Tools</h1>
 
-<img align="center" alt="Java" width="30px" style="padding-right:10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img align="center" alt="HTML" width="30px" style="padding-right:10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="center" alt="CSS" width="30px" style="padding-right:10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="center" alt="JavaScript" width="30px" style="padding-right:10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="center" alt="Python" width="30px" style="padding-right:10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="center" alt="GitHub" width="30px" style="padding-right:10px;"
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img align="left" alt="HTML" width="30px" style="padding-right:10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="left" alt="CSS" width="30px" style="padding-right:10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="left" alt="Python" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
      
 #
