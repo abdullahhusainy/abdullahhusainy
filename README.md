@@ -2,9 +2,7 @@
 <p align="center">I am a ...</p>
 <p float="left" align = "center">
   
-  <a href="https://www.linkedin.com/in/abdullahhusainy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    
-</p>
+  <a href="https://www.linkedin.com/in/abdullahhusainy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </p>
 
 
 
