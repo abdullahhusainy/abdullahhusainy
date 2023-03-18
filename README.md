@@ -36,4 +36,5 @@ I'm an
 
 <details>
  <summary><h3>👨🏻‍💻 My Coding Journey</h3></summary>
-   September 2021 was my first time when I touched and made code.
+   September 2021 was my first time when I touched and made code. That's it.
+   That was the first and last time. X_X
