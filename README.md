@@ -25,7 +25,6 @@ I'm an
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br>
 #
-<br>
 
 ### 📊 Stats
 
