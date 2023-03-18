@@ -2,7 +2,7 @@
    
 **`Code Ninja (Coder/Videographer)`**
 
-I'm an 
+I am a 2nd-year Computer Science student currently seeking a co-op internship position for Summer 2023. I have a keen interest in web development, cybersecurity and data science.
 
    <p align="left">
       <a href="https://github.com/abdullahhusainy?tab=followers">
