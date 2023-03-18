@@ -1,7 +1,4 @@
 <h1 align="left"fds>< > Abdullah Hussain < / ></h1>
-<p align="left">I am a ...</p>
-
-
 **`Code Ninja (Coder/Videographer)`**
 
 I'm an 
