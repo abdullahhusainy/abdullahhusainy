@@ -35,5 +35,4 @@ I am a 2nd-year Computer Science student currently seeking a co-op internship po
 
 <details>
  <summary><h3>👨🏻‍💻 My Coding Journey</h3></summary>
-   September 2021 was my first time when I touched and made code. That's it.
-   That was the first and last time. X_X
+   September 2021 was my first time when I touched and made code. I'm still trying...
