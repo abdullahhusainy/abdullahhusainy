@@ -4,7 +4,7 @@
 
 I'm an 
 
-   <p align="centre">
+   <p align="center">
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abdullahhusainy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/abdullahhusainy?tab=repositories&sort=stargazers">
