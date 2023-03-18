@@ -1,10 +1,10 @@
-  <p align="center">
+  <align="center">
   # <> Abdullah Hussain </>
 
-  <p align="center">
+  <align="center">
     **`Code Ninja (Coder/Videographer/)`**
 
-  <p align="center">
+  <align="center">
     I'm an 
 
    <p align="center">
