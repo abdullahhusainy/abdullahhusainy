@@ -1,8 +1,8 @@
-# <> Abdullah Hussain </>
+  <p align="center"># <> Abdullah Hussain </>
 
-**`Code Ninja (Coder/Videographer/)`**
+  <p align="center">**`Code Ninja (Coder/Videographer/)`**
 
-I'm an 
+  <p align="center">I'm an 
 
    <p align="center">
       <a href="https://github.com/ForrestKnight?tab=followers">
