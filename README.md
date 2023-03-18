@@ -15,6 +15,7 @@ I'm an
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abdullahhusainy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/abdullahhusainy?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/abdullahhusainy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+       <a href="https://www.linkedin.com/in/abdullahhusainy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
    </p>
 
 ---
