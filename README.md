@@ -1,5 +1,5 @@
 <h1 align="center">< > Abdullah Hussain < / ></h1>  
-<h4 align="center">I am a 3rd-year Computer Science student who has a keen interest in web development, cybersecurity and data science.</h4>
+<h4 align="center">I am a 5th-year Business Technology Management (BTM) major with a minor in Computer Science. I am passionate about exploring new IT initiatives, testing innovative technologies, and deploying emerging tools to drive business efficiency</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahhusainy&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahhusainy" /> </p>
    
